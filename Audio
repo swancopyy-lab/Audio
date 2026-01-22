@@ -43,7 +43,7 @@
   <div class="player">
     <h2>قصة اليوم</h2>
     <audio controls>
-      <source src="story1.mp3" type="audio/mpeg">
+      <source src="AUDIO-2025-12-21-23-02-36.m4a" type="audio/mpeg">
       المتصفح لا يدعم تشغيل الصوت.
     </audio>
     <div class="footer">استمتع بالاستماع للقصة!</div>
